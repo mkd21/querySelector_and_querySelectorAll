@@ -12,4 +12,3 @@
 // aur fir .style laga ke available property sue krlo 
 
 // ul wala reference leke dekh lo usecase kya hai 
-
